@@ -1,2 +1,1 @@
-echo 2323
-pause
+start skylab.exe
